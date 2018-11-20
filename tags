@@ -1,0 +1,78 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/45968eff/
+*	_site/css/main.css	/^*,$/;"	s
+*::after	_site/css/main.css	/^*::after {$/;"	s
+*::before	_site/css/main.css	/^*::before,$/;"	s
+.container	_site/css/main.css	/^.container {$/;"	c
+404	404.html	/^  <h1>404<\/h1>$/;"	h
+404	_site/404.html	/^  <h1>404<\/h1>$/;"	h
+About	_site/about/index.html	/^			<h2>About<\/h2>$/;"	i
+Awards / Activities	_pages/00_resume.md	/^### Awards \/ Activities$/;"	S
+Awards / Activities	_site/resume/index.html	/^    <h3 id="awards--activities">Awards \/ Activities<\/h3>$/;"	j
+Blog	_site/blog/index.html	/^			<h2>Blog<\/h2>$/;"	i
+Blog	blog/index.html	/^<h2>Blog<\/h2>$/;"	i
+Contact	_site/contact/index.html	/^			<h2>Contact<\/h2>$/;"	i
+Current Resume	_pages/00_resume.md	/^### Current Resume$/;"	S
+Current Resume	_site/resume/index.html	/^    <h3 id="current-resume">Current Resume<\/h3>$/;"	j
+Education	_pages/00_resume.md	/^### Education$/;"	S
+Education	_site/resume/index.html	/^<h3 id="education">Education<\/h3>$/;"	j
+Experience	_pages/00_resume.md	/^### Experience$/;"	S
+Experience	_site/resume/index.html	/^<h3 id="experience">Experience<\/h3>$/;"	j
+Extended Resume	_pages/00_resume.md	/^## Extended Resume$/;"	s
+Extended Resume	_site/resume/index.html	/^<h2 id="extended-resume">Extended Resume<\/h2>$/;"	i
+Falley Scout Reservation - Aquatics Instructor	_pages/00_resume.md	/^#### Falley Scout Reservation - Aquatics Instructor$/;"	t
+Grant Nichol's Site	_site/404.html	/^	<h1><a href="\/">Grant Nichol's Site<\/a><\/h1>$/;"	h
+Grant Nichol's Site	_site/about/index.html	/^	<h1><a href="\/">Grant Nichol's Site<\/a><\/h1>$/;"	h
+Grant Nichol's Site	_site/blog/index.html	/^	<h1><a href="\/">Grant Nichol's Site<\/a><\/h1>$/;"	h
+Grant Nichol's Site	_site/contact/index.html	/^	<h1><a href="\/">Grant Nichol's Site<\/a><\/h1>$/;"	h
+Grant Nichol's Site	_site/index.html	/^	<h1><a href="\/">Grant Nichol's Site<\/a><\/h1>$/;"	h
+Grant Nichol's Site	_site/jekyll/update/2018/11/19/welcome-to-jekyll.html	/^	<h1><a href="\/">Grant Nichol's Site<\/a><\/h1>$/;"	h
+Grant Nichol's Site	_site/resume/index.html	/^	<h1><a href="\/">Grant Nichol's Site<\/a><\/h1>$/;"	h
+ITS -- Kansas Department of Transportation - Intern	_pages/00_resume.md	/^#### ITS -- Kansas Department of Transportation - Intern$/;"	t
+Makerspace -- Fort Hays University - Student Worker	_pages/00_resume.md	/^#### Makerspace -- Fort Hays University - Student Worker$/;"	t
+Resume	_site/resume/index.html	/^			<h2>Resume<\/h2>$/;"	i
+Skills	_pages/00_resume.md	/^### Skills$/;"	S
+Skills	_site/resume/index.html	/^    <h3 id="skills">Skills<\/h3>$/;"	j
+Welcome to Jekyll!	_site/blog/index.html	/^		<h3><a href="\/jekyll\/update\/2018\/11\/19\/welcome-to-jekyll.html">Welcome to Jekyll!<\/a><\//;"	j
+Welcome to Jekyll!	_site/jekyll/update/2018/11/19/welcome-to-jekyll.html	/^			<h2>Welcome to Jekyll!<\/h2>$/;"	i
+Welcome to my website!	_site/index.html	/^			<h2 id="welcome-to-my-website">Welcome to my website!<\/h2>$/;"	i
+Welcome to my website!	index.md	/^## Welcome to my website!$/;"	s
+Who am I?	_pages/01_about.md	/^### Who am I?$/;"	S
+Who am I?	_site/about/index.html	/^<h3 id="who-am-i">Who am I?<\/h3>$/;"	j
+a	_site/css/main.css	/^a,$/;"	s
+a:hover	_site/css/main.css	/^a:hover {$/;"	s
+a:visited	_site/css/main.css	/^a:visited {$/;"	s
+aside	_site/css/main.css	/^aside {$/;"	s
+aside nav	_site/css/main.css	/^  aside nav {$/;"	s
+aside nav ul	_site/css/main.css	/^    aside nav ul {$/;"	s
+aside nav ul li	_site/css/main.css	/^      aside nav ul li {$/;"	s
+aside nav ul li a	_site/css/main.css	/^        aside nav ul li a {$/;"	s
+aside nav ul li a:active	_site/css/main.css	/^          aside nav ul li a:hover, aside nav ul li a:active {$/;"	s
+aside nav ul li a:hover	_site/css/main.css	/^          aside nav ul li a:hover, aside nav ul li a:active {$/;"	s
+aside nav:after	_site/css/main.css	/^    aside nav:after {$/;"	s
+body	_site/css/main.css	/^body {$/;"	s
+categories: jekyll update	_posts/2018-11-19-welcome-to-jekyll.markdown	/^categories: jekyll update$/;"	s
+footer	_site/css/main.css	/^footer {$/;"	s
+h1	_site/css/main.css	/^h1 {$/;"	s
+h1	_site/css/main.css	/^h1,$/;"	s
+h1 a	_site/css/main.css	/^  h1 a,$/;"	s
+h1 a:visited	_site/css/main.css	/^  h1 a:visited {$/;"	s
+h2	_site/css/main.css	/^h2 {$/;"	s
+h2	_site/css/main.css	/^h2,$/;"	s
+h3	_site/css/main.css	/^h3 {$/;"	s
+header	_site/css/main.css	/^header {$/;"	s
+layout: default	index.md	/^layout: default$/;"	s
+main	_site/css/main.css	/^main {$/;"	s
+permalink: /about/	_pages/01_about.md	/^permalink: \/about\/$/;"	s
+permalink: /contact/	_pages/02_contact.md	/^permalink: \/contact\/$/;"	s
+permalink: /resume/	_pages/00_resume.md	/^permalink: \/resume\/$/;"	s
+time	_site/css/main.css	/^time {$/;"	s
+{{ page.title }}	_layouts/page.html	/^<h2>{{ page.title }}<\/h2>$/;"	i
+{{ page.title }}	_layouts/post.html	/^<h2>{{ page.title }}<\/h2>$/;"	i
+{{ post.title }}	blog/index.html	/^		<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}<\/a><\/h3>$/;"	j
+{{ site.title }}	_includes/header.html	/^	<h1><a href="{{ "\/" | prepend: site.baseurl }}">{{ site.title }}<\/a><\/h1>$/;"	h

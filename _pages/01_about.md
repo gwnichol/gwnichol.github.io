@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 
-About content goes here.
+Just a bit about me:
 
-* A list item
-* Another list item
+### Who am I?
+I am a student in the Department of Electrical and Computer Engineering at Kansas State University. 
+
+The current things that I'm working on are programing my AVR ATMega328 microcontroller and learning various comunication protocols to interface between them.
+
