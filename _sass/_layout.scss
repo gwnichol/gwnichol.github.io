@@ -59,7 +59,11 @@ time {
 	max-width: $content-width;
 	margin: 0 auto;
 }
-
+.inline {
+	max-width: 100%;
+	width: auto;
+	margin: 0 auto;
+}
 /* Aside */
 
 aside {
