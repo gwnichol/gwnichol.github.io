@@ -4,7 +4,7 @@ author: Grant Nichol
 color:  amber
 title:  "Bitfields in C"
 date:   2019-01-31 12:00:00 -0600
-categories: c
+categories: ["C Programing", "Microcontrollers"]
 ---
 
 Apparently there's such a things as _bitfields_ which would allow me to name parts of a byte.
