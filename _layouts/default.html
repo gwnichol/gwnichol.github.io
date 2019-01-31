@@ -1,15 +1,8 @@
-<!DOCTYPE html>
-<html>
-{% include head.html %}
-
+---
+layout: base
+---
 <body>
-	{% include header.html %}
-	<main>
-		<article>
-			{{ content }}
-		</article>
-		{% include footer.html %}
-	</main>
-</body>
-
-</html>
+    {% include header.html %}
+    <div class="mui-container">
+    {{ content }}
+    </div>

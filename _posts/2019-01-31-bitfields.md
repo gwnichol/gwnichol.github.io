@@ -1,14 +1,11 @@
 ---
 layout: post
+author: Grant Nichol
+color:  amber
 title:  "Bitfields in C"
-date:   2019-1-31 12:00:00 -0600
-categories: C
-tags:
-- today-i-learned
-- programming
+date:   2019-01-31 12:00:00 -0600
+categories: c
 ---
-
-#Bitfields in C
 
 Apparently there's such a things at _bitfields_ which would allow me to name parts of a byte.
 I'm still trying to find out how exactly to apply them, 

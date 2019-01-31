@@ -1,7 +1,10 @@
 ---
 layout: post
+author: Grant Nichol
 title: "Strange Attractors"
 date: 2018-11-21 09:00:00 -0600
+pagination:
+   enabled: true
 categories: research
 ---
 # Strange Attractors
