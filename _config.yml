@@ -12,13 +12,13 @@ paginate_path: "page:num"
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
 links:
   facebook: gwnichol
-  twitter: gwnichol
+  twitter: g_n1234567890
   email: gwnichol.m@gmail.com
   github: gwnichol
 exclude:

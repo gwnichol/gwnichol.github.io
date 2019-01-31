@@ -7,7 +7,7 @@ date:   2019-01-31 12:00:00 -0600
 categories: c
 ---
 
-Apparently there's such a things at _bitfields_ which would allow me to name parts of a byte.
+Apparently there's such a things as _bitfields_ which would allow me to name parts of a byte.
 I'm still trying to find out how exactly to apply them, 
 but I'm hoping to be able to use them for my microcontroller programming as a way to have more
 readable code than doing a bunch of bitwise operations and macros. 
