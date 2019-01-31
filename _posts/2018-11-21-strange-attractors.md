@@ -53,15 +53,15 @@ uses basic statistics to tell how each variable weights
   
 ## Results
 
-<img src="/images/2018-11-21-strange-attractors/results.png" alt="Image of Results for this research" class="inline" />
+<img src="/img/2018-11-21-strange-attractors/results.png" alt="Image of Results for this research" class="inline" />
 
 __Darker colors indicate more even dispersal. Brighter red indicates a tendency towards. Brighter blue
 indicates a tendency away. Dash indicates no instances.__
 
 ### Some examples of images created
-<img src="/images/2018-11-21-strange-attractors/colorized_SFPYQCIQUERW_0.24487993762262464.png" alt="Image One" class="inline" /> 
+<img src="/img/2018-11-21-strange-attractors/colorized_SFPYQCIQUERW_0.24487993762262464.png" alt="Image One" class="inline" /> 
 An example of a t-shape attractor.
-<img src="/images/2018-11-21-strange-attractors/colorized_JGYOOFOKXYGA_0.1207036232714263.png" alt="Image Two" class="inline" />
+<img src="/img/2018-11-21-strange-attractors/colorized_JGYOOFOKXYGA_0.1207036232714263.png" alt="Image Two" class="inline" />
 
 Other pictres can be found in the Images folder.
 
