@@ -3,7 +3,7 @@ layout: post
 author: Grant Nichol
 title: "Strange Attractors"
 date: 2018-11-21 09:00:00 -0600
-cover: /images/2018-11-21-strange-attractors/colorized_SFPYQCIQUERW_0.24487993762262464.png
+cover: /img/2018-11-21-strange-attractors/colorized_SFPYQCIQUERW_0.24487993762262464.png
 categories: Research
 ---
 Here is the content of my poster presented at FHSU.
