@@ -47,6 +47,10 @@ header {
 	justify-content: center;
 	align-items: center;
 }
+table, td, th{
+	margin: auto;
+}
+
 main {
 	padding: 0 15px;
 	max-width: $content-width;
