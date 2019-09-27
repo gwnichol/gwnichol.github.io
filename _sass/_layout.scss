@@ -49,6 +49,8 @@ header {
 }
 table, td, th{
 	margin: auto;
+	border-collapse: collapse;
+	border: 1px solid black;
 }
 
 main {
