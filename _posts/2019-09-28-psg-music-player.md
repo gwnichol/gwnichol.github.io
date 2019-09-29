@@ -6,8 +6,9 @@ title:  "PSG Music Player"
 date:   2019-09-28 20:50:00 -0600
 categories: ["Microcontrollers", "Projects"]
 ---
+
 I created a device that can read note and timing information from an SD card in SPI mode and control
-a Programmable Sound Generator (PSG) to play video game music. The above video has many examples of songs that I was able to add. This project used an AY-3-8912 PSG and an HCS08 microcontroller. This was done as a final project for my ECE431 microcontrollers class and was written entirely in assembly. There were many complex challenges to overcome and I ran into many problems that required unique solutions. I will not be posting the full code of the project publicly due to concerns of cheating, however you can contact me at [gwnichol@ksu.edu](mailto:gwnichol@ksu.edu) and I will gladly share it with you.
+a Programmable Sound Generator (PSG) to play video game music. The video below has many examples of songs that I was able to add. This project used an AY-3-8912 PSG and an HCS08 microcontroller. This was done as a final project for my ECE431 microcontrollers class and was written entirely in assembly. There were many complex challenges to overcome and I ran into many problems that required unique solutions. I will not be posting the full code of the project publicly due to concerns of cheating, however you can contact me at [gwnichol@ksu.edu](mailto:gwnichol@ksu.edu) and I will gladly share it with you.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BOaOFtMmoTc" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
