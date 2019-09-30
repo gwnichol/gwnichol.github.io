@@ -7,7 +7,7 @@ keywords: "jekyll, theme, material, blog"
 #url: "http://bitwiser.in/bitwiser-material" # the base hostname & protocol for your site
 url: "https://gwnichol.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
-paginate: 5
+paginate: 100 
 paginate_path: "page:num"
 
 # Build settings
@@ -17,8 +17,6 @@ sass:
   sass_dir: _sass
   style: :compressed
 links:
-  facebook: gwnichol
-  twitter: g_n1234567890
   email: gwnichol.m@gmail.com
   github: gwnichol
 exclude:
