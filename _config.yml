@@ -1,9 +1,9 @@
 # Site settings
 ## Change the values as needed.
-title: Grant's Blog
-email: gwnichol.m@gmail.com
-description: "This is my attempt at a jekyll blog."
-keywords: "jekyll, theme, material, blog"
+title: GrantNichol.com
+email: gwnichol@ksu.edu
+description: "This websight highlights various projects or anything else I care about."
+keywords: "hire, jobs, resume, blog"
 #url: "http://bitwiser.in/bitwiser-material" # the base hostname & protocol for your site
 url: "https://gwnichol.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -17,7 +17,7 @@ sass:
   sass_dir: _sass
   style: :compressed
 links:
-  email: gwnichol.m@gmail.com
+  email: gwnichol@ksu.edu
   github: gwnichol
 exclude:
   - bower_components
