@@ -29,6 +29,15 @@ ga_id: UA-149111857-1
 plugins:
   - jekyll-paginate
 
+defaults:
+  -
+    scope:
+      path: "_posts"
+    values:
+      author: "Grant Nichol"
+      permalink: "/posts/:title:output_ext"
+
+
 ##set this to enable disqus commenting
 #disqus: bitwiser
 
