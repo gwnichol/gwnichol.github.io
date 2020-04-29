@@ -1,8 +1,10 @@
 ---
 layout: base
 ---
-<body>
+<body class="d-flex flex-column h-100" data-gr-c-s-loaded="true">
     {% include header.html %}
-    <div class="mui-container">
-    {{ content }}
-    </div>
+    <main role="main" class="flex-shrink-0">
+		<div class="container">
+			{{ content }}
+		</div>
+    </main>
