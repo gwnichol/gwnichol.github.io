@@ -1,9 +1,9 @@
 ---
 layout: post
 author: Grant Nichol
-color:  blue
 title:  "OhHi Solver"
-date:   2020-04-29 20:50:00 -0600
+cover: /img/2020-04-29-OhHiSolver/OhHi.png
+date:   2020-04-29 00:00:00 -0600
 categories: ["Game", "Projects"]
 ---
 
