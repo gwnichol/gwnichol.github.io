@@ -4,17 +4,19 @@ layout: default
 
 <div class="card-columns main-set">
 	{% for post in paginator.posts %}
-		<div class="card p-3">
-			{% if post.cover %}
-				<img class="card-img-top" src="{{ post.cover }}"/>
-			{% endif %}
-			<div class="card-body">
-				<h5 class="card-title">{{ post.title }}</h5>
-				<p class="card-text">{{ post.excerpt | strip_html }}</p>
-			</div>
-			<div class="card-footer">
-				<time datetime="{{ post.date | date: "%Y-%m-%d%T%H:%M" }}"><small class="text-muted">Posted: {{ post.date | date: "%m/%-d/%Y" }}</small></time>
-			</div>
+		<div class="card m-3">
+			<a class="card-block stretched-link text-decoration-none" href="{{ post.url | prepend: site.baseurl }}">
+				{% if post.cover %}
+					<img class="card-img-top" src="{{ post.cover }}"/>
+				{% endif %}
+				<div class="card-body">
+					<h5 class="card-title">{{ post.title }}</h5>
+					<p class="card-text">{{ post.excerpt | strip_html }}</p>
+				</div>
+				<div class="card-footer">
+					<time datetime="{{ post.date | date: "%Y-%m-%d%T%H:%M" }}"><small class="text-muted">Posted: {{ post.date | date: "%m/%-d/%Y" }}</small></time>
+				</div>
+			</a>
 		</div>
 	{% endfor %}
 </div>
