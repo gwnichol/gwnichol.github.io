@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<div class="card-deck main-deck">
+<div class="card-columns main-set">
 	{% for post in paginator.posts %}
-		<div class="card">
+		<div class="card p-3">
 			{% if post.cover %}
 				<img class="card-img-top" src="{{ post.cover }}"/>
 			{% endif %}
