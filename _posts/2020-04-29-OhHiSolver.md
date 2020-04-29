@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Grant Nichol
-color:  green
+color:  blue
 title:  "OhHi Solver"
 date:   2020-04-29 20:50:00 -0600
 categories: ["Game", "Projects"]
