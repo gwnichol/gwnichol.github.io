@@ -24,6 +24,8 @@ exclude:
   - README.md
 full_name: Grant Nichol
 
+ga_id: UA-149111857-1
+
 plugins:
   - jekyll-paginate
 
