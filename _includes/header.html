@@ -15,22 +15,13 @@
 				<li class="nav-item">
 					<a href="/resume/" class="nav-link">Resume</a>
 				</li>
-				<li class="nav-item">
-					<a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-				</li>
 			</ul>
-			<ul class="mt-2">
+			<ul class="navbar-nav">
 				{% if site.links.github %}
-					<li><a href="https://github.com/{{ site.links.github }}" target="_blank" class="mui-btn"><i class="fa fa-github"></i>Github</a></li>
-				{% endif %}
-				{% if site.links.twitter %}
-					<li><a href="https://twitter.com/{{ site.links.twitter }}" target="_blank" class="mui-btn "><i class="fa fa-twitter"></i>Twitter</a></li>
-				{% endif %}
-				{% if site.links.facebook %}
-					<li><a href="https://www.facebook.com/{{ site.links.facebook }}" target="_blank" class="mui-btn"><i class="fa fa-facebook"></i>Facebook</a></li>
+					<li class="nav-item"><a class="nav-link" href="https://github.com/{{ site.links.github }}" target="_blank"><i class="fa fa-github"></i></a></li>
 				{% endif %}
 				{% if site.links.email %}
-					<li><a href="mailto:{{ site.links.email }}" class="mui-btn"><i class="fa fa-envelope"></i>Mail</a></li>
+					<li class="nav-item"><a class="nav-link" href="mailto:{{ site.links.email }}"><i class="fa fa-envelope"></i></a></li>
 				{% endif %}
 			</ul>
 		</div>
