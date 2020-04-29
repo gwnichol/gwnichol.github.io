@@ -18,3 +18,13 @@ code {
 a.nav-link > i {
 	font-size: 125%
 }
+
+.card > a.stretched-link {
+color: black;
+
+}
+
+.card > a.stretched-link:hover {
+color: darkgray;
+
+}
