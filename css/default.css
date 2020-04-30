@@ -61,10 +61,3 @@ color: darkgray;
         column-count: 4;
     }
 }
-
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: darkgrey;
-    color: white;
-  }
-}
