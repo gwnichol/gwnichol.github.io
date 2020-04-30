@@ -9,6 +9,7 @@ categories: ["Awesome WM", "Tweaks"]
 
 I'm currently using Awesome as my window manager. One of the main reasons I switched to it from i3
 was the built in capacity for modification. I'm finding that anything I want to tweak, I can.
+
 Two of the main modifications I've made so far are:
    * Sane icon scaling in built in notifications
    * Ability to rename tags in place
