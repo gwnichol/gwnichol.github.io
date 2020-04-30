@@ -27,3 +27,9 @@
 		</div>
 	</nav>
 </header>
+
+<script>
+	$("ul.navbar-nav li a").each(function() {
+		if( $(this).prop('href') == $(location).prop('href')){ $(this).addClass("active") };
+	});
+</script>
