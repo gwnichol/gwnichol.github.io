@@ -10,7 +10,9 @@ categories: ["Research", "Projects"]
 
 Here is a poster that I created as an entry into the John Heinrich's Scholarly and Creative Activities Day competition at Fort
 Hays State University. We used Poisson’s equation for electric potential to map potential within a bounded region. The final
-goal of the project was to map the electric potential within a charged vehicle. Before we could get to that point we first
+goal of the project was to map the electric potential within a charged vehicle.
+
+Before we could get to that point we first
 need to implement calculations for both two and three dimensional bounded regions. To reduce computational time, we used the
 relaxation method. Then, we implemented a way to place objects into a three dimensional region using the STL file format.
 Finally, we found a 3D model and ran the calculation. All programming was done in C++. One of the greatest challenges 
