@@ -33,8 +33,8 @@ $success:       $green !default;
 $info:          $cyan !default;
 $warning:       $yellow !default;
 $danger:        $red !default;
-$light:         $gray-100 !default;
-$dark:          $gray-800 !default;
+$light:         rgba($purple, 0.2) !default;
+$dark:          rgba($purple, 0.8) !default;
 
 $yiq-contrasted-threshold: 250 !default;
 
@@ -51,7 +51,7 @@ $border-radius-sm:            .4rem !default;
 // Fonts
 
 $headings-font-family:        "Montserrat", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
-$headings-color:              rgba($purple,0.3) !default;
+$headings-color:              rgba($purple,0.9) !default;
 
 // Tables
 
