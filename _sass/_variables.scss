@@ -33,7 +33,7 @@ $success:       $green !default;
 $info:          $cyan !default;
 $warning:       $yellow !default;
 $danger:        $red !default;
-$light:         lighten($purple,50%) !default;
+$light:         lighten($purple,45%) !default;
 $dark:          darken($purple, 40%) !default;
 
 $yiq-contrasted-threshold: 250 !default;
