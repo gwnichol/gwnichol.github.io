@@ -34,7 +34,7 @@ $info:          $cyan !default;
 $warning:       $yellow !default;
 $danger:        $red !default;
 $light:         rgba($purple, 0.2) !default;
-$dark:          rgba($purple, 0.2) !default;
+$dark:          rgba($purple, 0.95) !default;
 
 $yiq-contrasted-threshold: 250 !default;
 
@@ -64,7 +64,7 @@ $dropdown-link-hover-bg:            $secondary !default;
 
 // Navbar
 
-$navbar-dark-color:                 rgba($purple,.8) !default;
+$navbar-dark-color:                 rgba($purple,.3) !default;
 $navbar-dark-hover-color:           $gray-200 !default;
 $navbar-dark-active-color:			$gray-200 !default;
 
