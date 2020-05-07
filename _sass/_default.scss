@@ -34,6 +34,25 @@ color: lighten($body-color, 20%);
 	min-width: 6rem
 }
 
+.btn-category {
+	@extend .rounded-pill;
+	color: $white;
+	background-color: $body-color;
+	border-color: $body-color;
+}
+
+.btn-projects {
+	color: $white;
+	background-color: $primary;
+	border-color: $primary;
+}
+
+.btn-programming {
+	color: $white;
+	background-color: $secondary;
+	border-color: $secondary;
+}
+
 @media (min-width: 34em) {
     .card-columns {
         -webkit-column-count: 2;
