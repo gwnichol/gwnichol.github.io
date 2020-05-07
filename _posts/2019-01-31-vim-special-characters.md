@@ -4,7 +4,7 @@ author: Grant Nichol
 color:  green
 title:  "Special Characters in VIM"
 date:   2019-01-31 20:50:00 -0600
-categories: ["VIM", "Reference"]
+categories: ["Note"]
 ---
 
 Here is a post I'm making to come back to when I find useful special characters in VIM

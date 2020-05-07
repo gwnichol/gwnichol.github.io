@@ -4,7 +4,7 @@ author: Grant Nichol
 title:  "OhHi Solver"
 cover: /img/2020-04-29-OhHiSolver/OhHi.png
 date:   2020-04-29 00:00:00 -0600
-categories: ["Game", "Projects"]
+categories: ["Projects"]
 ---
 
 I created a Python program that can solve puzzles in the game [OhHi](https://play.google.com/store/apps/details?id=com.q42.ohhi) by Q42. My code uses a hybrid solving technique where it loops through all possible moves to find those that are obvious, then it performs a depth first recursive search.

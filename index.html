@@ -21,12 +21,28 @@ layout: default
 	{% endfor %}
 </div>
 
-<div class="paginator">
-    {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="mui-btn mui-btn-primary"><i class="fa fa-chevron-circle-left"></i>Previous</a>
-    {% endif %}
-    <span>Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-    {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="mui-btn mui-btn-primary">Next<i class="fa fa-chevron-circle-right"></i></a>
-    {% endif %}
-</div>
+
+
+<nav aria-label="Index Page Selector">
+	<ul class="pagination justify-content-center">
+		<li class="page-item {% if paginator.previous_page == nil %}disabled{% endif %}">
+			<a class="page-link" href="{{ paginator.previous_page_path }}" tabindex="-1">Previous</a>
+		</li>
+
+		{% for page in (1..paginator.total_pages) %}
+		{% if page == 1 %}
+			{% assign pageurl = "/" %}
+		{% else %}
+			{% assign pageurl = "/page" | append: page %}
+		{% endif %}
+
+		<li class="page-item"><a class="page-link {% if page == paginator.page %}active{% endif %}" href="{{ pageurl }}">{{ page }}</a></li>
+
+		{% endfor %}
+
+		<li class="page-item {% if paginator.next_page == nil %}disabled{% endif %}">
+			<a class="page-link" href="{{ paginator.next_page_path }}">Next</a>
+		</li>
+
+	</ul>
+</nav>

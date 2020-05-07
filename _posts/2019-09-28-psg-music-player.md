@@ -6,7 +6,7 @@ title:  "PSG Music Player"
 date:   2019-09-28 20:50:00 -0600
 cover: /img/2019-09-28-psg-music-player/cover.png
 parmalink: /psg/
-categories: ["Microcontrollers", "Projects"]
+categories: ["Projects"]
 ---
 
 I created a device that can read note and timing information from an SD card in SPI mode and control
