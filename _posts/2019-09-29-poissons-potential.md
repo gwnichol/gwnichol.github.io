@@ -5,7 +5,7 @@ color:  blue
 title:  "Poisson's Potential"
 date:   2019-09-29 20:50:00 -0600
 cover: /img/2019-09-29-poissons-potential/cover.png
-categories: ["Research", "Projects"]
+categories: ["Projects"]
 ---
 
 Here is a poster that I created as an entry into the John Heinrich's Scholarly and Creative Activities Day competition at Fort
