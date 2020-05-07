@@ -11,12 +11,10 @@ layout: default
 				{% endif %}
 				<div class="card-body">
 					<h5 class="card-title">{{ post.title }}</h5>
-					<p>
+					<p class="card-text">
 						{% assign categories = post.categories %}
 						{% for category in categories %}
-						<a href="{{site.baseurl}}/categories.html#{{category|slugize}}">
-							<button class="btn-{{category | slugize | downcase}} btn-category ">{{ category }}</button>
-						</a>
+						<button class="btn-{{category | slugize | downcase}} btn-category ">{{ category }}</button>
 						{% endfor %}
 					</p>
 					<p class="card-text">{{ post.excerpt | strip_html }}</p>
