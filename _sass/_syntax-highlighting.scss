@@ -6,7 +6,9 @@
     padding: 2px;
 
     pre {
-        border: 1px solid $primary;
+		@extend .rounded;
+		@extend .border;
+		@extend .border-primary
     }
 
 	.lineno {
