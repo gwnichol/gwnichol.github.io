@@ -4,7 +4,7 @@ author: Grant Nichol
 color:  green
 title:  "Awesome WM Modifications"
 date:   2019-02-11 20:50:00 -0600
-categories: ["Note"]
+categories: ["Notes"]
 ---
 
 I'm currently using Awesome as my window manager. One of the main reasons I switched to it from i3
