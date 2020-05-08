@@ -23,7 +23,7 @@ mapping equation for categories of images.
     1. The overall process is that I create 12 random constants and use a quadratic
 map with those constants to create “strange attractors.” Very certain
 combinations of constants in (Equation 1) inhibit chaos and some form attractors when the points seem attracted to a certain pattern.
-    2. I used the error checking method described by Ian Withan that checks for index
+   2. I used the error checking method described by Ian Withan that checks for index
 errors. I also used J. C. Sprott’s (1998) naming method that matches 25 numbers
 between -1.2 and 1.2 with letters (p. 53).
 2. Colorization
@@ -70,7 +70,7 @@ It appears that there is a strong tendency for the variables but more data is
 needed. The variables on all the attractors tend to have the most weighting in the
 extremes and the fourth and tenth spaces have little variance (Figure 2). The tshape
 category, however, has distinct variable weightings (Figure 3). Figure 1 acts as a
-control for the random generator. Using 16 bit color depth would have been
+control for the random generator. Using 16-bit color depth would have been
 beneficial due to only 255 levels of brightness and the widely skewed histogram
 before equalization. A downfall of my project was that attempted recreation of
 example attractors from J. C. Sprott’s (1998) paper throws errors (p. 54). However,
