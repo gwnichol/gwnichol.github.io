@@ -22,6 +22,10 @@ links:
 exclude:
   - bower_components
   - README.md
+  - Gemfile.lock
+  - Gemfile
+
+
 full_name: Grant Nichol
 
 ga_id: UA-149111857-1
