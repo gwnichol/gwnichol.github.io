@@ -12,7 +12,7 @@ I will try to add to this whenever new things come up in my life.
 
 ### Education
 * Department of Electrical and Computer Engineering -- Kansas State University
-	* GPA: 4.0
+	* GPA: 3.9
 	* 2018 - Present
 * Kansas Academy of Math and Science -- Fort Hays State University
 	* GPA: 3.87
